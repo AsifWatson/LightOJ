@@ -25,8 +25,6 @@ double angle()
 
 int main()
 {
-    freopen("in.txt", "rt", stdin);
-    freopen("out.txt", "wt", stdout);
     int t,caseno=0;
     scanf("%d",&t);
     while(t--)
